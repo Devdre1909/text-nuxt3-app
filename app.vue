@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtWelcome />
-    <input type="text" placeholder="HI" />
+    <input placeholder="HI" />
   </div>
 </template>
